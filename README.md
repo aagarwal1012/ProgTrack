@@ -63,11 +63,11 @@ $ node seed.js
 
 | Login Page                      | Register Page                  |
 | ------------------------------- | ------------------------------ |
-| ![](/screenshots/login.png)     | ![](/screenshots/register.png) |
+| ![](/screenshots/login.PNG)     | ![](/screenshots/register.PNG) |
 | **Account Page**                | **Lessons Page**               |
-| ![](/screenshots/dashboard.png) | ![](/screenshots/lessons.png)  |
+| ![](/screenshots/dashboard.PNG) | ![](/screenshots/lessons.PNG)  |
 | **Grades Page**                 | **Users Page**                 |
-| ![](/screenshots/grades.png)    | ![](/screenshots/users.png)    |
+| ![](/screenshots/grades.PNG)    | ![](/screenshots/users.PNG)    |
 
 
 
