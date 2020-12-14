@@ -7,7 +7,7 @@ ProgTrack is an online web app that allows teachers and students to keep track o
 **Group 18**
 - Ayush Agarwal (17114017)
 - Divyanshu Salve (17114027)
-- Twarit Waiker (17114074)
+- Twarit Waikar (17114074)
 
 # Features!
 
