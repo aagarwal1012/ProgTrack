@@ -32,30 +32,22 @@ Install the dependencies and devDependencies
 ```sh
 $ git clone https://github.com/georgesimos/el-tutor.git
 $ npm install
-$ npm run install-client // Installing react app dependencies
+$ cd client
+$ npm install
+$ cd ..
 ```
 
 Start the server.
 
 ```sh
-$ npm install
-$ npm start or npm run dev // Starting the server
+$ npm start // Starting the server
 ```
 
 Start the client.
 
 ```sh
 $ cd client
-$ npm install
 $ npm start
-```
-### or
-
-Start server and client without to change folders. 
-
-```sh
-$ npm start or npm run dev // Starting the server
-$ npm run start-client
 ```
 
 ### Database seeding
