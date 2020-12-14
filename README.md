@@ -1,18 +1,13 @@
 <h1 align="center">
 ProgTrack
 </h1>
-<p align="center">
-MongoDB, Expressjs, React/Redux, Nodejs
-</p>
 
-ProgTrack is an online web app that allows teachers and students to keep track of student's grades. Built with MERN Stack
+ProgTrack is an online web app that allows teachers and students to keep track of student's grades and lessons. This project is built for the Advance Algorithm (CSN-501) course project. 
 
-- Admin Dashboard
-- Dark Theme UI
-
-> MERN is a fullstack implementation in MongoDB, Expressjs, React/Redux, Nodejs.
-
-MERN stack is the idea of using Javascript/Node for fullstack web development.
+**Group 18**
+- Ayush Agarwal (17114017)
+- Divyanshu Salve (17114027)
+- Twarit Waiker (17114074)
 
 # Features!
 
