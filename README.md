@@ -30,7 +30,7 @@ Requires [Node.js](https://nodejs.org/) to run.
 Install the dependencies and devDependencies
 
 ```sh
-$ git clone https://github.com/georgesimos/el-tutor.git
+$ git clone https://github.com/aagarwal1012/ProgTrack.git
 $ npm install
 $ cd client
 $ npm install
